@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+.article1 {
+	border-top: 10px;
+}
